@@ -1,0 +1,59 @@
+.body{
+	background-color: #A5DEF2;
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+}
+.background-img{
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	position: absolute;
+}
+.logo{
+	height: 80px;
+}
+.logo-name{
+	font-size: 20px;
+	font-family:sans-serif;
+	font-style: normal;
+}
+.college-name{
+	font-size: 14px;
+}
+.navbar{
+position: all;
+}
+.logo-title{
+	position: absolute;
+	margin-left: 100px;
+}
+.Ilustrations1 , .Ilustrations2{
+	margin-top: 50px;
+}
+.Ilustrations1{
+	margin-left: 10px;
+	max-width: 520px;	
+	min-width: 200px;
+}
+.Ilustrations2{
+	margin-left: 140px;
+	max-width: 560px;
+	min-width: 200px;
+}
+.navbar-nav{
+
+	position: absolute;
+	float: right;
+	align-content: flex-end;
+}
+#navbar-color{
+	background-color: none;
+}
+
+.jumbotron{
+	width: 100%;
+	align-self: center;
+	align-items: center;
+	border-radius: 15px;
+}
