@@ -72,4 +72,10 @@ position: all;
 
 	text-align: center;
 	align-self: center;
+	border-radius: 20px;
+}
+#team{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
 }
